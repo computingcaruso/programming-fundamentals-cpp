@@ -1,1 +1,44 @@
+# Week 1: Problem Solving
 
+## 🧠 Concept
+
+Programming is NOT about code first.
+
+It is about:
+1. Understanding the problem
+2. Breaking it into steps
+3. THEN writing code
+
+---
+
+## 🌍 Real-World Example
+
+Making a sandwich:
+1. Get bread
+2. Add ingredients
+3. Assemble
+
+That’s an algorithm!
+
+---
+
+## ✏️ Pseudocode
+
+Make Sandwich:
+- Get bread
+- Add peanut butter
+- Add jelly
+- Combine
+
+---
+
+## 💻 C++ Example
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Making a sandwich..." << endl;
+    return 0;
+}
