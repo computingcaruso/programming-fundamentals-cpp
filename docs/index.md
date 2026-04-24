@@ -1,8 +1,4 @@
 
----
-
-## 🌐 docs/index.md (Your Blog Homepage)
-```markdown
 # Programming Fundamentals Blog
 
 Welcome to our course blog!
